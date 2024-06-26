@@ -1,0 +1,14 @@
+numpy
+Pyradiomics
+pandas
+matplotlib
+lifelines==0.27.0
+joblib
+scikit-survival
+plotly
+SimpleITK 
+nibabel
+scikit-learn
+scipy
+osqp
+
